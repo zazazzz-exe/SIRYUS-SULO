@@ -2,15 +2,36 @@
 
 ### 👥 Team Siryus
 * **Zarrah Exekiel Valles**
-* **Vincent Adolf Sablay**
+* **Vincent Adolf Sablay Adversary**
 * **Vehniah P. Samson**
 * **Marc Justin Lee G. Granada**
 
 ---
 
+### 📋 Project Submission Details
+* **Selected Project Case:** Legal Accessibility (§08)
+* **Scope / Focus Area:** Employment & Labor (Minimum Viable Product Focus)
+* **Tagline:** Understandable for every Filipino
+* **Positioning:** Literacy, not advice
+
 An AI that brings ordinary Filipinos out of the dark on the documents that decide their rights — without ever pretending to be a lawyer. Amazon Comprehend · Quantized LLM · OCR · ASR/TTS · Vite · React.
 
 SULO is an AI-powered legal-literacy and document-understanding platform. A Filipino points their phone at a contract, a notice, or a loan agreement — by upload, photo, or voice — and SULO explains, in plain language and in their own tongue, what the document is, what it obligates them to do, what deadlines it carries, and which clauses deserve a second look. It does not give legal advice. It gives legal understanding, and it routes people to real help when they need it so that safety lives in comprehension, not in dense legal jargon.
+
+---
+
+## 🚀 Scope of Development
+
+### What We Will Develop (Future Roadmap)
+* **Fully On-Device Offline Optimization:** Porting the core quantized models directly onto local client device execution blocks to minimize remote server exposures and ensure zero-connectivity environments (like remote provinces) still gain total document clarity.
+* **Barangay & Court Summons Domain Pack:** Expanding semantic mapping capabilities from labor contexts into localization suites for standard physical community mediation documents and formal lower-court orders.
+* **Proactive PII Redaction Engine:** Local preprocessing scripts to structurally mask personal identifying identifiers (TIN, SSS, and banking details) before any cloud-bound custom pipeline executions.
+
+### What We Have Developed (Current MVP Status)
+* **Multimodal Capture & Extraction Pipeline:** Built a responsive PWA layout capable of taking structural physical uploads or image photos (processed via OCR conversion) along with mixed voice utterances/Taglish code-switching inputs (processed via ASR engines).
+* **Amazon Comprehend NLP Routing Service:** Programmed custom entities to auto-classify incoming documents, instantly extracting bound party structures, fiscal rules, hidden penalty configurations, and time milestones.
+* **Hallucination-Proof RAG Engine:** Wired an embedding collection (Vector Store Semantic Index) grounded natively against a single date-stamped truth index containing true legal anchors like the Philippine Labor Code (Presidential Decree No. 442) and the FSL Act (RA 11106).
+* **Quantized LLM Translation Interface:** Integrated a compressed inference layer that transforms dense legal legalese into highly localized plain-language text blocks alongside synchronous Text-to-Speech playback streams.
 
 ---
 
