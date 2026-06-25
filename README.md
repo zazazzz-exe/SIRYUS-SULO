@@ -24,7 +24,6 @@ SULO is an AI-powered legal-literacy and document-understanding platform. A Fili
 
 ### What We Have Developed (Current MVP Status)
 * **Multimodal Capture & Extraction Pipeline:** Built a responsive PWA layout capable of taking structural physical uploads or image photos (processed via OCR conversion) along with mixed voice utterances/Taglish code-switching inputs (processed via ASR engines).
-* **Amazon Comprehend NLP Routing Service:** Programmed custom entities to auto-classify incoming documents, instantly extracting bound party structures, fiscal rules, hidden penalty configurations, and time milestones.
 * **Hallucination-Proof RAG Engine:** Wired an embedding collection (Vector Store Semantic Index) grounded natively against a single date-stamped truth index containing true legal anchors like the Philippine Labor Code (Presidential Decree No. 442) and the FSL Act (RA 11106).
 * **Quantized LLM Translation Interface:** Integrated a compressed inference layer that transforms dense legal legalese into highly localized plain-language text blocks alongside synchronous Text-to-Speech playback streams.
 
