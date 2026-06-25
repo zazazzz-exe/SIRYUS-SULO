@@ -9,7 +9,7 @@
 ---
 
 ### 📋 Project Submission Details
-* **Selected Project Case:** Legal Accessibility (§08)
+* **Selected Project Case: 2
 * **Scope / Focus Area:** Employment & Labor (Minimum Viable Product Focus)
 * **Tagline:** Understandable for every Filipino
 * **Positioning:** Literacy, not advice
