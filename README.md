@@ -67,8 +67,8 @@ SULO is an AI-powered legal-literacy platform designed to bring ordinary Filipin
 Quick links for reviewers — everything the submission rubric asks for, in one place.
 
 ### Live Demo
-* Deployed app: `(input this here)` — try an image upload or a voice interaction.
-* Walkthrough video: `(input this here)` — full feature tour showing legal text-to-speech routing.
+* Deployed app: `(WIP)` — try an image upload or a voice interaction.
+* Walkthrough video: `(WIP)` — full feature tour showing legal text-to-speech routing.
 
 ### Mobile Responsive
 Captured on Android Chrome at 1080×2400 — hero layout, camera-capture flow, typography, and interactive risk highlights all reflow cleanly as a Progressive Web App (PWA) layout without horizontal scroll.
