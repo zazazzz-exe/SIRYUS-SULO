@@ -1,5 +1,13 @@
 # SULO
 
+### 👥 Team Siryus
+* **Zarrah Exekiel Valles**
+* **Vincent Adolf Sablay**
+* **Vehniah P. Samson**
+* **Marc Justin Lee G. Granada**
+
+---
+
 An AI that brings ordinary Filipinos out of the dark on the documents that decide their rights — without ever pretending to be a lawyer. Amazon Comprehend · Quantized LLM · OCR · ASR/TTS · Vite · React.
 
 SULO is an AI-powered legal-literacy and document-understanding platform. A Filipino points their phone at a contract, a notice, or a loan agreement — by upload, photo, or voice — and SULO explains, in plain language and in their own tongue, what the document is, what it obligates them to do, what deadlines it carries, and which clauses deserve a second look. It does not give legal advice. It gives legal understanding, and it routes people to real help when they need it so that safety lives in comprehension, not in dense legal jargon.
