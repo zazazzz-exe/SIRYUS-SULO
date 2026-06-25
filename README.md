@@ -40,7 +40,7 @@ SULO turns dense legal documents into instant, conversational clarity. Point you
 | :--- | :--- |
 | **Project** | SULO — AI Legal-Literacy & Document-Understanding Platform |
 | **Team** | Siryus |
-| **Selected Project Case** | Case 2 |
+| **Selected Project Case** | Project Case 2: AI-Powered Study Companion for Filipino Learners |
 | **Scope / Focus** | Employment & Labor *(Minimum Viable Product)* |
 | **Tagline** | Understandable for every Filipino |
 | **Positioning** | Literacy, not advice |
@@ -110,7 +110,7 @@ The law exists. The rights exist. **The gap is in comprehension.**
 
 | Member | Role |
 | :--- | :--- |
-| Zarrah Exekiel Valles | Team Representative | Main Developer |
+| Zarrah Exekiel Valles | Team Representative & Main Developer |
 | Vincent Adolf Sablay Adversary | Design |
 | Vehniah P. Samson | AI Integration |
 | Marc Justin Lee G. Granada | Research & Documentation |
