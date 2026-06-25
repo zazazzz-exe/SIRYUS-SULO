@@ -114,29 +114,6 @@ The legal routing, text extraction, and parsing service is live.
 
 The processing repository is organized into a modular pipeline; its core public parameters match standard text interpretation rules for seamless compatibility.
 
-## Architecture
-
-| Layer | Stack |
-| :--- | :--- |
-| **Frontend** | React, Vite, Tailwind, Progressive Web App (PWA) |
-| **AI Engine** | Custom Amazon Comprehend NLP Pipeline, Quantized Mobile-Optimized LLM, RAG |
-| **Data Engine** | Vector Store (Semantic Embeddings Retrieval Index) |
-| **Perception** | OCR (Text Extraction) & ASR / TTS (Speech Components) |
-
----
-
-## Environment variables (frontend)
-
-Copy `frontend/.env.example` to `frontend/.env` and set:
-
-* `VITE_COMPREHEND_API_URL` — Backend processing pipeline URL.
-* `VITE_LOCAL_LLM_GATEWAY_URL` — Quantized LLM endpoint interface for real-time contract Q&A.
-* `VITE_VECTOR_STORE_URL` — RAG knowledge base search interface.
-* `VITE_APP_ENV` — Development or production indicator.
-* `(input any extra environment variables here)`
-
-The example variables in `.env.example` are for development purposes only.
-
 ## Local development
 
 1. **Shared Knowledge Base API:** `(input this here)`
