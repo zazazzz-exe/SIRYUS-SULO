@@ -82,19 +82,18 @@ Workflow lives at `(input this here)`.
 ---
 
 ## 📡 Core Backend & Model Pipelines
-* **Amazon Comprehend NLP Routing Service:** `(input this here)`
-* **Quantized LLM Inference Host Location:** `(input this here)`
-* **Vector Store Semantic Search Endpoint:** `(input this here)`
-* **Sample Document Analysis / Processing Log ID:** `(input this here)`
+* **Quantized LLM Inference Host Location:** `(WIP)`
+* **Vector Store Semantic Search Endpoint:** `(WIP)`
+* **Sample Document Analysis / Processing Log ID:** `(WIP)`
 
 ---
 
 ## 🚀 Deployed Infrastructure
 The legal routing, text extraction, and parsing service is live.
-* **Service/Model ID:** `(input this here)`
+* **Service/Model ID:** `(WIP)`
 * **Type:** Quantized LLM Pipeline / Custom NLP Classifier / RAG Engine
-* **Network/Host:** `(input this here)`
-* **Explorer/Logs:** `(input this here)`
+* **Network/Host:** `(WIP)`
+* **Explorer/Logs:** `(WIP)`
 
 ---
 
@@ -127,9 +126,9 @@ The processing repository is organized into a modular pipeline; its core public 
 
 ## 💻 Local Development
 
-1. **Shared Knowledge Base API:** `(input this here)`
-2. **Frontend Setup:** `(input commands like npm run dev here)`
-3. **Model Weights Deployment:** `(input instructions for loading quantized LLM here)`
+1. **Shared Knowledge Base API:** `(WIP)`
+2. **Frontend Setup:** `(WIP)`
+3. **Model Weights Deployment:** `(WIP)`
 
 ### Deploying on Vercel
 The Vite app lives at `frontend`, not the repository root.
