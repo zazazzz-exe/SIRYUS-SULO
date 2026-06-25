@@ -6,8 +6,7 @@
 
 *Sulo* — Filipino for **torch**. An AI legal-literacy platform that brings ordinary Filipinos out of the dark on the documents that decide their rights — without ever pretending to be a lawyer.
 
-![Status](https://img.shields.io/badge/status-MVP-E07B00?style=flat-square)
-![Built with](https://img.shields.io/badge/React-Vite-2B5566?style=flat-square)
+![Status](https://img.shields.io/badge/status-ONGOING-E07B00?style=flat-square)
 ![Hackathon](https://img.shields.io/badge/ACM%20TechSprint-Asteria-17150F?style=flat-square)
 ![Positioning](https://img.shields.io/badge/literacy-not%20advice-B25E00?style=flat-square)
 
