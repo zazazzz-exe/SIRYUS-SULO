@@ -77,7 +77,7 @@ Captured on Android Chrome at 1080×2400 — hero layout, camera-capture flow, t
 
 ## 🛠️ CI/CD
 Runs on every push to main and on every PR: `npm ci` -> `npm run build` against the frontend.  
-Workflow lives at `(input this here)`.
+Workflow lives at `(WIP)`.
 
 ---
 
