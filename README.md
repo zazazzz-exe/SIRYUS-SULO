@@ -112,10 +112,9 @@ The legal routing, text extraction, and parsing service is live.
 ## 🔄 How It Works
 
 1. **Capture & Extract (OCR / ASR)** — Point a phone at a contract or speak directly into the app. SULO reads images or transcribes spoken Filipino/Taglish.
-2. **Auto-Classification & Language Routing** — The system integrates Amazon Comprehend to detect the language profile and document type to pull up specific legal compliance frameworks.
-3. **Semantic Grounding (RAG & Vector Store)** — The system queries a curated knowledge base of true legal provisions (Labor Code, current amendments) to prevent AI hallucinations.
-4. **Local Comprehension Execution** — A compressed, Quantized LLM reads the context to highlight deadlines, monetary balances, and suspicious clauses.
-5. **Clarity Flows (TTS)** — The user reads or listens to an interactive, side-by-side translation to safely understand their rights without entering legal advice boundaries.
+2. **Semantic Grounding (RAG & Vector Store)** — The system queries a curated knowledge base of true legal provisions (Labor Code, current amendments) to prevent AI hallucinations.
+3. **Local Comprehension Execution** — A compressed, Quantized LLM reads the context to highlight deadlines, monetary balances, and suspicious clauses.
+4. **Clarity Flows (TTS)** — The user reads or listens to an interactive, side-by-side translation to safely understand their rights without entering legal advice boundaries.
 
 ---
 
